@@ -4,6 +4,12 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+langchain = "*"
+langchain-community = "*"
+python-dotenv = "*"
+langchain-openai = "*"
+flask = "*"
+requests = "*"
 
 [dev-packages]
 
